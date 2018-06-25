@@ -1,2 +1,0 @@
-# Directives
-Created with CodeSandbox
